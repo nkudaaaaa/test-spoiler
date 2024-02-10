@@ -84,7 +84,7 @@ details {
 li {
   list-style-type: circle;
 }
-h1 {
+h1, h3 {
   text-align: center;
   font-size: 70px;
 }
