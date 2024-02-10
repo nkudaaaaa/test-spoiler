@@ -96,7 +96,7 @@ h1 {
 }
 
 .spoiler-content{
-  width: 60%;
+  width: 100%;
 }
 .spoiler[open]{
   max-height: 600px;
